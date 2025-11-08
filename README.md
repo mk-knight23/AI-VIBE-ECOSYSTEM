@@ -26,4 +26,14 @@ Live : https://gpt-clone-app.lovable.app
 8    https://github.com/mk-knight23/Crazy
 Live : https://crazy-three.vercel.app
 
-9   
+9   https://github.com/mk-knight23/funny-formal-ai
+Live : https://funny-formal-ai.vercel.app
+
+10  https://github.com/mk-knight23/gensparkai
+Live : https://mk-knight23.github.io/gensparkai
+
+11  https://github.com/mk-knight23/N8n_Automations
+Live : https://mk-knight23.github.io/N8n_Automations
+
+12 https://github.com/mk-knight23/Make_Automations
+Live : https://mk-knight23.github.io/Make_Automations
