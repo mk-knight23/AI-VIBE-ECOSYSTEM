@@ -42,5 +42,4 @@ games-apps-collection : https://github.com/mk-knight23/games-apps-collection
 
 hierarchical-rag-beps : https://github.com/mk-knight23/hierarchical-rag-beps
 
-NLP-Pipeline: https://github.com/mk-knight23/NLP-Pipeline 
-
+NLP-Pipeline :  https://github.com/mk-knight23/NLP-Pipeline 
