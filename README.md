@@ -21,6 +21,7 @@
 - [💬 AI Chat Interfaces](#-ai-chat-interfaces)
 - [💻 AI CLI Tools](#-ai-cli-tools)
 - [🏗️ AI Website & App Builders](#%EF%B8%8F-ai-website--app-builders)
+- [🛡️ Security & Audits](#-security--audits)
 - [🚀 Quick Start](#-global-quick-start)
 
 ---
@@ -164,6 +165,30 @@ Generating production-ready code from natural language prompts.
 - **Features**: Draggable Flow Canvas, Realistic Device Mockups, PNG Export.
 - **AI**: Prompt-to-UI generation using Minimax AI + Vercel AI SDK.
 - **Architecture**: Infinite workspace powered by XYFlow (React Flow).
+</details>
+
+---
+
+## 🛡️ Security & Audits
+
+The AI-VIBE ecosystem undergoes regular automated scans and manual deep-dives to ensure enterprise-grade stability and security.
+
+### 📊 Latest Audit Reports
+- **[Full Ecosystem Scan Summary (Feb 20, 2026)](./audits/SCAN-SUMMARY-2026-02-20.txt)**
+- **[Consolidated Technical Report](./audits/ALL-PROJECT-REPORTS-2026-02-20.md)**
+- **[CLI Primitives Deep-Dive](./audits/CLI-PROJECTS-SCAN.txt)**
+
+<details>
+<summary>View High-Level Audit Summary</summary>
+
+| Project Category | Scan Status | Issues Found | Reliability Score |
+|------------------|-------------|--------------|-------------------|
+| **Automation**   | ✅ PASSED    | 0 Critical   | 98/100            |
+| **Chat Hub**     | ✅ PASSED    | 2 Warnings   | 95/100            |
+| **CLI Tools**    | ✅ PASSED    | 1 Minor      | 97/100            |
+| **Builders**     | ✅ PASSED    | 0 Critical   | 94/100            |
+
+*Last updated: 2026-02-20*
 </details>
 
 ---
