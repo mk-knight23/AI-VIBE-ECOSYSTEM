@@ -187,11 +187,6 @@ Generating production-ready code from natural language prompts.
 
 The AI-VIBE ecosystem undergoes regular automated scans and manual deep-dives to ensure enterprise-grade stability and security.
 
-
-**
-**
-- **[CLI Primitives Deep-Dive](./audits/CLI-PROJECTS-SCAN.txt)**
-
 <details>
 <summary>View High-Level Audit Summary</summary>
 
