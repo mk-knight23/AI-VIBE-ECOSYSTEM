@@ -15,6 +15,20 @@
 
 ---
 
+## 🎨 Visual Showcase
+
+### Ecosystem Showcase Hub
+The interactive hub provides a high-impact overview of the entire AI-VIBE ecosystem with smooth transitions and premium glassmorphic effects.
+
+![Ecosystem Showcase Hub](./assets/showcase-hub.png)
+
+### Experience the Showcase
+*An interaction recording of the hub and the navigation flow.*
+
+![Showcase Interaction Recording](./assets/showcase-recording.webp)
+
+---
+
 ## 🗺️ Ecosystem Navigation
 
 - [🤖 AI Automation](#-ai-automation-agents)
