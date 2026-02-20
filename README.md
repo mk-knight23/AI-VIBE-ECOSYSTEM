@@ -17,15 +17,15 @@
 
 ## 🎨 Visual Showcase
 
-### Ecosystem Showcase Hub
-The interactive hub provides a high-impact overview of the entire AI-VIBE ecosystem with smooth transitions and premium glassmorphic effects.
+### AI-VIBE Command Center
+The new interactive "Command Center" hub provides a high-impact overview of the entire AI-VIBE ecosystem with smooth transitions and premium glassmorphic effects.
 
-![Ecosystem Showcase Hub](./assets/showcase-hub.png)
+![AI-VIBE Command Center](./assets/hub-hero.png)
 
-### Experience the Showcase
-*An interaction recording of the hub and the navigation flow.*
+### Live System Discovery
+*Experience the unified ecosystem navigation and interactive project discovery.*
 
-![Showcase Interaction Recording](./assets/showcase-recording.webp)
+![Command Center Demo](./assets/hub-demo.webp)
 
 ---
 
