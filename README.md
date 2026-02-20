@@ -175,7 +175,7 @@ The VIBE ecosystem is designed for rapid deployment and experimentation.
 ### 1. General Setup
 Most projects follow the standard Next.js sequence:
 ```bash
-git clone https://github.com/mk-knight23/AI---SAAS.git
+git clone https://github.com/mk-knight23/AI-VIBE-ECOSYSTEM.git
 # Navigate to a specific project directory
 cd AI-VIBE-CHAT-V3
 npm install
